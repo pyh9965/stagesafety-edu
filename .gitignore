@@ -1,0 +1,7 @@
+*.mp4
+*.wav
+*.pdf
+vod*/
+txt/
+node_modules/
+.DS_Store
